@@ -17,10 +17,20 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs:
+  using: 'node16'
+  main: 'main.js
 
     # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
+   steps:
+  # Reference a specific commit
+  - uses: actions/checkout@a81bbbf8298c0fa03ea29cdc473d45769f953675
+  # Reference the major version of a release
+  - uses: actions/checkout@v3
+  # Reference a specific version
+  - uses: actions/checkout@v3.2.0
+  # Reference a branch
+  - uses: actions/checkout@main
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
