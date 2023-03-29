@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Akshat Rawat</h1>
 <h3 align="center">A cool guy doing some coding stuff😎</h3>
