@@ -1,16 +1,15 @@
-
-
 <h1 align="center">Hi 👋, I'm Akshat Rawat</h1>
 <h3 align="center">A cool guy doing some coding stuff😎</h3>
 
-<img aling="center" alt="gif" width="400" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-1460.gif">
+<img align="right" alt="gif" width="450" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-1460.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akki-rawat&label=Profile%20views&color=0e75b6&style=flat" alt="akki-rawat" /> </p>
 
 - 🌱 I’m currently learning **React JS, Node JS, Mongo DB**
 
-- ⚡ Fun fact **I play games too.**
+- ⚡ Fun fact **Hello! I'm Akshat Rawat, a second-year BCA student with a passion for web development. My primary focus is on front-end development & I play games too.**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
