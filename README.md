@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Rawat</h1>
 <h3 align="center">A cool guy doing some coding stuff😎</h3>
 
-<img align="right" alt="gif" width="450" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-1460.gif">
+<img align="right" alt="gif" width="350" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akki-rawat&label=Profile%20views&color=0e75b6&style=flat" alt="akki-rawat" /> </p>
 
