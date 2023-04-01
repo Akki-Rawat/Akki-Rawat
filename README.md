@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **Hello! I'm Akshat Rawat, a second-year BCA student with a passion for web development. My primary focus is on front-end development & I play games too.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
