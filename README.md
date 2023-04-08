@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS, Node JS, Mongo DB**
 
-- ⚡ Fun fact **Hello! I'm Akshat Rawat, a second-year BCA student with a passion for web development. My primary focus is on front-end development & I play games too.**
+- ⚡ Fun fact "**Hello! I'm Akshat Rawat, a second-year BCA student with a passion for web development. My primary focus is on front-end development & I play games too.**"
 
 <p align="left">
 </p>
